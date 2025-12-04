@@ -1,0 +1,5 @@
+Week 1 – Windows Active Directory + File Sharing
+• Built lab.local domain with DC01, FILE01, MEMBER01
+• Configured working SMB share \\FILE01\Shared
+• Accessible from domain-joined client via Explorer and cmd
+• All on free Windows Server 2022 Evaluation
